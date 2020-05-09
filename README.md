@@ -1,4 +1,8 @@
-# Mec\ánica-del-continuo-2020-1
+# Continuous Mechanics (2020-10)
 
-Este espacio tiene como objetivo compartir diferentes soluciones a problemas enfocados en mecánica del continuo en Geociencias.
+This is a space with codes that solves Continuous Mechanics' (in Geoscience) problems.
+
+# Mec\'anica del Contiuo (2020-10)
+
+Este espacio tiene como objetivo compartir diferentes soluciones a problemas enfocados en Mecánica del Continuo en Geociencias.
 
