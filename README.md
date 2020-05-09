@@ -1,0 +1,1 @@
+# Mec-nica-del-continuo-2020-1
